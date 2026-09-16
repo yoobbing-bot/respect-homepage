@@ -1,6 +1,6 @@
 backend:
   name: turbo-github
-  turbo_site_id: "여기에-Decap-Turbo-사이트-생성-후-Overview-탭의-Site-ID(UUID)를-붙여넣으세요"
+  turbo_site_id: "54d37dbb-e52b-4f71-8b76-cd0bfa4cf6f2"
   branch: main
 
 media_folder: "images/events"
